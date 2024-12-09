@@ -64,7 +64,7 @@ class EditorUI {
         // filename label
         const appLabel = new Label({
             id: 'app-label',
-            text: `SUPERSPLAT v${version}`
+            text: `Mirukuru 3DGS Viewer`
         });
 
         // canvas container
